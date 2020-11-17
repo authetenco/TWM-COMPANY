@@ -1,2 +1,2 @@
 # TWM-COMPANY
-:BULB:
+:BULB:twm-company
